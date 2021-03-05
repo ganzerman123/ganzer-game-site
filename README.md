@@ -1,5 +1,5 @@
 # ganzer-game-site
-has a original site
+is a original site
 
 this site has alot of popular games, fan games, and mobile games
 
